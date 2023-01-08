@@ -1,7 +1,7 @@
 # Todo web app
  To run the code after cloning
  ## steps
- 1. git clone <url>
+ 1. git clone your url
  2. cd frontend 
  3. npm i (npm install for all the required packages ) it will be downloaded automatically 
  4. npm start to run client side server
